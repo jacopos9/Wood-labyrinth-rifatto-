@@ -19,6 +19,6 @@ public class VictoryHole : MonoBehaviour
 
     void Update()
     {
-
+        
     }
 }
